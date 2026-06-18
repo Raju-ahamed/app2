@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "brand": "Apple",
+        "price": 999,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15",
+        "brand": "Apple",
+        "price": 799,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1695048133206-df67eefb3ee9?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 14",
+        "brand": "Apple",
+        "price": 699,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1663499482523-1c0c16ae223c?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 4,
+        "name": "iPhone SE (2022)",
+        "brand": "Apple",
+        "price": 429,
+        "storage": "64GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 5,
+        "name": "iPhone 13 mini",
+        "brand": "Apple",
+        "price": 599,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1632661674596-df8be070a5c5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 6,
+        "name": "Galaxy S24 Ultra",
+        "brand": "Samsung",
+        "price": 1299,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 7,
+        "name": "Galaxy S24+",
+        "brand": "Samsung",
+        "price": 999,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 8,
+        "name": "Galaxy S24",
+        "brand": "Samsung",
+        "price": 799,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1583573636246-18cb2246697f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 9,
+        "name": "Galaxy A55 5G",
+        "brand": "Samsung",
+        "price": 449,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 10,
+        "name": "Galaxy Z Fold 5",
+        "brand": "Samsung",
+        "price": 1799,
+        "storage": "512GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1574755393849-623942496936?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 11,
+        "name": "Pixel 8 Pro",
+        "brand": "Google",
+        "price": 999,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1592890288564-76628a30a657?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 12,
+        "name": "Pixel 8",
+        "brand": "Google",
+        "price": 699,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 13,
+        "name": "Pixel 7a",
+        "brand": "Google",
+        "price": 499,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 14,
+        "name": "Pixel Fold",
+        "brand": "Google",
+        "price": 1799,
+        "storage": "256GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 15,
+        "name": "OnePlus 12",
+        "brand": "OnePlus",
+        "price": 799,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 16,
+        "name": "OnePlus 12R",
+        "brand": "OnePlus",
+        "price": 499,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1551645121-d1034da75057?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 17,
+        "name": "OnePlus Nord N30",
+        "brand": "OnePlus",
+        "price": 299,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1533228891705-227c73543f29?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 18,
+        "name": "Xiaomi 14 Ultra",
+        "brand": "Xiaomi",
+        "price": 1199,
+        "storage": "512GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 19,
+        "name": "Redmi Note 13 Pro",
+        "brand": "Xiaomi",
+        "price": 349,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 20,
+        "name": "Poco F6",
+        "brand": "Xiaomi",
+        "price": 429,
+        "storage": "256GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 21,
+        "name": "Xperia 1 VI",
+        "brand": "Sony",
+        "price": 1399,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 22,
+        "name": "Xperia 5 V",
+        "brand": "Sony",
+        "price": 999,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1565630916779-e303be97b6f5?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 23,
+        "name": "Edge 50 Pro",
+        "brand": "Motorola",
+        "price": 699,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1551645121-d1034da75057?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 24,
+        "name": "Moto G Power (2024)",
+        "brand": "Motorola",
+        "price": 299,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1592890288564-76628a30a657?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 25,
+        "name": "ThinkPhone",
+        "brand": "Motorola",
+        "price": 599,
+        "storage": "256GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 26,
+        "name": "Zenfone 11 Ultra",
+        "brand": "Asus",
+        "price": 899,
+        "storage": "256GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 27,
+        "name": "ROG Phone 8 Pro",
+        "brand": "Asus",
+        "price": 1199,
+        "storage": "512GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1605236453806-6ff36851218e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 28,
+        "name": "Nothing Phone (2)",
+        "brand": "Nothing",
+        "price": 599,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1583573636246-18cb2246697f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 29,
+        "name": "Nothing Phone (2a)",
+        "brand": "Nothing",
+        "price": 349,
+        "storage": "128GB",
+        "inStock": true,
+        "image": "https://images.unsplash.com/photo-1695048133206-df67eefb3ee9?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+        "id": 30,
+        "name": "HTC U23 pro",
+        "brand": "HTC",
+        "price": 499,
+        "storage": "256GB",
+        "inStock": false,
+        "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500&auto=format&fit=crop&q=60"
+    }
+]
