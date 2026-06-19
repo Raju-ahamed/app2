@@ -8,6 +8,11 @@ app.get('/', (req, res) => {
 });
 app.get('/phone', (req, res) => {
     res.send(phones);
+});
+app.get('/phone/:id', (req, res) => {
+    const id = req.params.id;
+    const phone = phones.find(phone => phone.id === Number(id)) || {};
+    res.send(phone)
 })
 app.listen(port, () => {
     console.log(`example app lisiting on port ${port}`)
